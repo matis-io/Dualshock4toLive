@@ -3,7 +3,7 @@ Max for Live patch that lets you use PS4 controller as MIDI device in Live
 
 11 note on and note off messages. 6 CC parameters.
 
-###Key bindings:
+### Key bindings:
 Square	  	C3
 X		      	C#
 O		    	  D
@@ -26,7 +26,7 @@ Up arrow, left analog stick up and down movement:                               
 Right arrow, right analog stick left and right movement:                                    CC 124
 Right arrow, right analog stick up and down movement:                                       CC 125
 
-###Maping CC in Live
+### Maping CC in Live
 You can map the CC values to any paramenter in Live by using a virtual MIDI adapter (such as IAC driver on Mac), and sending MIDI from a track on which the patch is located to IAC Driver (Bus1).
 
 How to setup a virtual MIDI bus (Ableton website):
